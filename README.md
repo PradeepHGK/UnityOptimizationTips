@@ -20,3 +20,8 @@
 * Streamline Physics Calculation
   * Raycast --> Using layermask
   * Colliders
+
+----
+### UI Optimization
+
+Unity Tips - https://unity3d.com/how-to/unity-ui-optimization-tips
